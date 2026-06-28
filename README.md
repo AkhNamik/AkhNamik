@@ -94,16 +94,9 @@ I am actively building my own products, improving my German, learning more about
 ---
 
 ## 📫 Let's connect
-Have an idea, project or business workflow that could be improved with software or AI automation? Feel free to reach out — I’m open to discussing web applications, SaaS products, internal tools and automation systems.
+Have an idea, project or business workflow that could be improved with software or AI automation? Feel free to reach out — I’m open to discussing web applications, SaaS products, internal tools and automation systems.v
 
-<p align="left">
-  <a href="https://namikakhmedov.de">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://t.me/akhnamik">
-    <img src="https://img.shields.io/badge/Telegram-Message-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:support@namikakhmedov.de">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🌐 **Website** — [namikakhmedov.de](https://namikakhmedov.de)  
+💬 **Telegram** — [@akhnamik](https://t.me/akhnamik)  
+📩 **Email** — [support@namikakhmedov.de](mailto:support@namikakhmedov.de)  
+📱 **WhatsApp** — [Message me](https://wa.me/491709064186)
