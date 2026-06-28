@@ -2,26 +2,11 @@
 
 ### Senior Full Stack & AI Engineer based in Germany 🇩🇪
 
-I build **production-ready web applications, AI automation systems and scalable digital products** — from idea and architecture to frontend, backend, deployment and optimization.
+I build **production-ready web applications, AI automation systems and scalable digital products**.
 
-My focus is on creating fast, reliable and useful software for real business needs: websites, SaaS platforms, internal tools, dashboards, integrations and AI-powered automation workflows.
+My work combines **frontend, backend, AI automation and product thinking** — from idea and architecture to deployment, optimization and long-term maintainability.
 
-<br />
-
-<p align="left">
-  <a href="https://namikakhmedov.de">
-    <img src="https://img.shields.io/badge/Portfolio-namikakhmedov.de-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://t.me/akhnamik">
-    <img src="https://img.shields.io/badge/Telegram-@akhnamik-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/491709064186">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-111111?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/namik-akhmedov/>
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I focus on building software that is not only technically clean, but also useful for real business needs: fast websites, SaaS platforms, dashboards, internal tools, API integrations and AI-powered workflows.
 
 ---
 
@@ -30,8 +15,8 @@ My focus is on creating fast, reliable and useful software for real business nee
 - ⚡ Build fast, scalable and production-ready web applications
 - 🤖 Create AI automation systems and LLM-powered workflows
 - 🧩 Develop SaaS products, dashboards and internal business tools
-- 🌍 Build multilingual and SEO-friendly websites for international audiences
-- 🔌 Integrate APIs, payment systems, CRMs, analytics and external services
+- 🌍 Build multilingual and SEO-friendly websites
+- 🔌 Integrate APIs, CRMs, analytics, payment systems and external services
 - 🛠 Design clean frontend, backend and deployment architecture
 
 ---
@@ -80,9 +65,9 @@ I am a full stack engineer focused on building practical, reliable and scalable 
 
 My work is usually at the intersection of **web development, backend architecture, AI automation and product thinking**. I enjoy turning ideas into real systems: landing pages, SaaS products, dashboards, APIs, internal tools and automation workflows.
 
-I like clean and maintainable code, but I also care about business value. For me, good software is not only technically correct — it should be fast, useful, easy to maintain and solve a real problem.
+I care about clean and maintainable code, but I also care about business value. For me, good software is not only technically correct — it should be fast, useful, reliable, easy to maintain and solve a real problem.
 
-My current focus is on AI-powered automation: LLM integrations, agents, business process automation, customer communication systems, internal assistants and smart workflows that save time for companies.
+My current focus is on AI-powered automation: LLM integrations, AI agents, business process automation, customer communication systems, internal assistants and smart workflows that save time for companies.
 
 I am especially interested in building products for the German and European market, where reliability, speed, clear communication and long-term maintainability matter.
 
@@ -108,19 +93,17 @@ I am actively building my own products, improving my German, learning more about
 
 ---
 
-## 📫 Contact
+## 📫 Let's connect
+Have an idea, project or business workflow that could be improved with software or AI automation? Feel free to reach out — I’m open to discussing web applications, SaaS products, internal tools and automation systems.
 
 <p align="left">
   <a href="https://namikakhmedov.de">
-    <img src="https://img.shields.io/badge/Portfolio-Visit Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://t.me/akhnamik">
-    <img src="https://img.shields.io/badge/Telegram-Message Me-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/49XXXXXXXXXX">
-    <img src="https://img.shields.io/badge/WhatsApp-Message Me-111111?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Message-111111?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:support@namikakhmedov.de">
-    <img src="https://img.shields.io/badge/Email-Contact Me-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
